@@ -22,22 +22,22 @@ A festive and responsive Christmas-themed website designed to bring the magic of
 ## 📸 Website Screenshots
 
 ### 🏠 Home
-![Home](screenshots/home.png)
+![Home](screenshorts/home.png)
 
 ### 🎄 About
-![About](screenshots/about.png)
+![About](screenshorts/about.png)
 
 ### ✨ Services
-![Services](screenshots/services.png)
+![Services](screenshorts/services.png)
 
 ### 📩 Contact
-![Contact](screenshots/contact.png)
+![Contact](screenshorts/contact.png)
 
 ### 🎁 Products
-![Products](screenshots/products.png)
+![Products](screenshorts/products.png)
 
 ### 🔗 Footer
-![Footer](screenshots/footer.png)
+![Footer](screenshorts/footer.png)
 
 ## 🎯 Project Purpose
 
